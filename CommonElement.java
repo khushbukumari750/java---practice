@@ -1,7 +1,6 @@
 //(17) FIND COMMON ELEMENT IN TWO ARRAYS
 
 import java.util.Arrays;
-
 public class CommonElement {
     public static void main(String[] args) {
         int[]arr1 = {1,2,3,15,4,20,5};
